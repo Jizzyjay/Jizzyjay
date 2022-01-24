@@ -25,10 +25,10 @@ When not working on a project or thinking about coding, I would most likely be w
 - I am currently looking for new remote opportunities.
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
 - 🌱 I’m currently learning React.js and React Native
-- 👯 I’m looking to collaborate on Ionic/Angular and React projects.
+- 👯 I’m looking to collaborate on React projects.
 - 💬 Ask me about Software Development
 - 📫 How to reach me: [Twitter](https://twitter.com/Jizzy_jay423) || [LinkedIn](https://www.linkedin.com/in/ekunolajohn/) || Email: ekunolajohn@gmail.com
-- ⚡ Fun fact: I'm really not a hard guy 😄. I enjoy watching good movies.
+- ⚡ Fun fact: I enjoy watching football, good movies and hanging out😄.
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
