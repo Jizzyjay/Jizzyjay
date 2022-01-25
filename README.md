@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there, I'm Ekunola John 👋🏾</h2>
 <p align="center">
-  <a href="johnekunola.com">Website</a> •
+  <a href="https://www.johnekunola.com/">Website</a> •
   <a href="https://www.linkedin.com/in/ekunolajohn/">LinkedIn</a> •
   <a href="https://twitter.com/Jizzy_jay423">Twitter</a>
 </p>
@@ -38,4 +38,4 @@ When not working on a project or thinking about coding, I would most likely be w
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 
-[![John's github stats](https://github-readme-stats.vercel.app/api?username=pscon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![John's github stats](https://github-readme-stats.vercel.app/api?username=Jizzyjay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
