@@ -1,8 +1,8 @@
 <h2 align="center"> Hey there, I'm Ekunola John 👋🏾</h2>
 <p align="center">
-  <a href="https://www.johnekunola.com/">Website</a> •
-  <a href="https://www.linkedin.com/in/ekunolajohn/">LinkedIn</a> •
-  <a href="https://twitter.com/Oluwatosin_EJ">Twitter</a>
+  <a href="https://www.johnekunola.com/" target="_blank">Website</a> •
+  <a href="https://www.linkedin.com/in/ekunolajohn/" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/Oluwatosin_EJ" target="_blank">Twitter</a>
 </p>
 ---
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 I'm a Frontend Engineer, [Open-source contributor](https://github.com/Jizzyjay) based in Lagos, Nigeria. I am passionate about web technologies and making the web accessible to everyone.
 
-When not working on a project or thinking about coding, I would most likely watch Movies on Netflix, play video games and spend time with family and friends.
+When not working on a project or thinking about coding, I would most likely watch Movies on Netflix, play video games, and spend time with family and friends.
 
 <!-- **I am currently seeking a Frontend Developer position with an exciting company.** -->
 
@@ -26,7 +26,7 @@ When not working on a project or thinking about coding, I would most likely watc
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
 - 🌱 I’m currently learning React.js and React Native
 - 👯 I’m looking to collaborate on React projects.
-- 💬 Ask me about Software Development
+- 💬 Ask me about Frontend Development. 
 - 📫 How to reach me: [Twitter](https://twitter.com/Oluwatosin_EJ) || [LinkedIn](https://www.linkedin.com/in/ekunolajohn/) || Email: ekunolajohn@gmail.com
 - ⚡ Fun fact: I enjoy watching football, good movies, and hanging out😄.
 
