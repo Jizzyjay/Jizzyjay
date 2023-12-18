@@ -1,6 +1,7 @@
 <h2 align="center"> Hey there, I'm Ekunola John 👋🏾</h2>
 <p align="center">
-  <a href="https://www.johnekunola.com/" target="_blank">Website</a> •
+<!--   <a href="https://www.johnekunola.com/" target="_blank">Website</a> • -->
+  <a href="https://johnekunola.vercel.app/" target="_blank">Website</a> •
   <a href="https://www.linkedin.com/in/ekunolajohn/" target="_blank">LinkedIn</a> •
   <a href="https://twitter.com/Oluwatosin_EJ" target="_blank">Twitter</a>
 </p>
