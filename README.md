@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/ekunolajohn/" target="_blank">LinkedIn</a> •
   <a href="https://twitter.com/Oluwatosin_EJ" target="_blank">Twitter</a>
 </p>
----
 
 <!--
 **Jizzyjay/Jizzyjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
