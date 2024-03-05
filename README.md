@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there, I'm Ekunola John 👋🏾</h2>
+<h2 align="center"> Hey there, I'm John Ekunola 👋🏾</h2>
 <p align="center">
 <!--   <a href="https://www.johnekunola.com/" target="_blank">Website</a> • -->
   <a href="https://johnekunola.vercel.app/" target="_blank">Website</a> •
