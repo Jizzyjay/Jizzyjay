@@ -12,7 +12,9 @@
 Here are some ideas to get you started:
 -->
 
-I'm a Frontend Engineer, [Open-source contributor](https://github.com/Jizzyjay) based in Lagos, Nigeria. I am passionate about web technologies and making the web accessible to everyone.
+I'm a Frontend Engineer, based in Lagos, Nigeria. I am passionate about web technologies and making the web accessible to everyone.
+
+I am an innovative and highly motivated front-end developer with proven skills in software development, technical writing, and leadership. I am passionate about problem-solving with code and constantly strive to improve my skills.
 
 When not working on a project or thinking about coding, I would most likely watch Movies on Netflix, play video games, and spend time with family and friends.
 
