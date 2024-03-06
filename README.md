@@ -1,7 +1,7 @@
 <h2 align="center"> Hey there, I'm John Ekunola 👋🏾</h2>
 <p align="center">
 <!--   <a href="https://www.johnekunola.com/" target="_blank">Website</a> • -->
-  <a href="https://johnekunola.vercel.app/" target="_blank">Website</a> •
+  <a href="https://new-portfolio-ochre-eight.vercel.app/" target="_blank">Website</a> •
   <a href="https://www.linkedin.com/in/ekunolajohn/" target="_blank">LinkedIn</a> •
   <a href="https://twitter.com/Oluwatosin_EJ" target="_blank">Twitter</a>
 </p>
@@ -31,6 +31,7 @@ When not working on a project or thinking about coding, I would most likely watc
 - ⚡ Fun fact: I enjoy watching football, good movies, and hanging out😄.
 
 **Languages and Tools:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
