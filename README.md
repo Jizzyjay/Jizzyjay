@@ -26,7 +26,7 @@ When not working on a project or thinking about coding, I would most likely watc
 
 - I am currently looking for new remote opportunities.
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
-- 🌱 I’m currently learning React.js and React Native
+- 🌱 I’m currently learning React.js.
 - 👯 I’m looking to collaborate on React projects.
 - 💬 Ask me about Frontend Development. 
 - 📫 How to reach me: [Twitter](https://twitter.com/Oluwatosin_EJ) || [LinkedIn](https://www.linkedin.com/in/ekunolajohn/) || Email: ekunolajohn@gmail.com
